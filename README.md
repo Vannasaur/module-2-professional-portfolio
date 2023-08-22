@@ -27,6 +27,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Installation
+
 N/A
 
 ## Usage
@@ -36,6 +37,7 @@ N/A
 Click on the navigation bar buttons to be directed to their corresponding locations on the webpage.
 
 ### Work Section
+
 Hover over the images in the Work section to view the image at full opacity.
 
 To view the two live projects listed in the Work section, click on the images for Prework Study Guide and Horiseon Code Refactor. A new tab will open up with the corresponding webpages. 
@@ -44,7 +46,13 @@ If you click on the pictures for the Upcoming Projects, you will be redirected t
 
 ### Contact Me
 
----------------------------INSERT INFO HERE-----------------------------
+If you click on the phone number while using a mobile device, the number will be callable. 
+
+If you click on the email listed, a new message will open up directed to vannaluciano@gmail.com.
+
+If you click on the Github link, my Github account will be opened in a new tab. 
+
+If you click on the Instagram link, my Instagram account will be opened in a new tab.
 
 Link to deployed application: https://vannasaur.github.io/module-2-professional-portfolio/
 
@@ -57,4 +65,4 @@ CSS Reset Stylesheet taken from MeyerWeb's public domain. See below for link to 
 MIT License, please refer to the LICENSE in the repo.
 
 
-![_Users_giovannaluciano_bootcamp_challenges_module-1_index html (1)](https://github.com/Vannasaur/module-1-horiseon-refactor/assets/141793843/53e0b1d6-d208-4d36-9e0b-c502609cfc51)
+![_Users_giovannaluciano_bootcamp_challenges_module-2_index html](https://github.com/Vannasaur/module-2-professional-portfolio/assets/141793843/d100ee54-d8c0-4e2c-9fe3-34c3f38e102d)
