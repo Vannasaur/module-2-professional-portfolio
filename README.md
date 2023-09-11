@@ -54,7 +54,7 @@ If you click on the Github link, my Github account will be opened in a new tab.
 
 If you click on the Instagram link, my Instagram account will be opened in a new tab.
 
-Link to deployed application: https://vannasaur.github.io/module-2-professional-portfolio/
+Link to deployed application: https://vannasaur.github.io/professional-portfolio/
 
 ## Credits
 
