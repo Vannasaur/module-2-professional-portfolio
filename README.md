@@ -40,7 +40,7 @@ Click on the navigation bar buttons to be directed to their corresponding locati
 
 Hover over the images in the Work section to view the image at full opacity.
 
-To view the three live projects listed in the Work section, click on the images for Prework Study Guide, Horiseon Code Refactor and Surf Planner. A new tab will open up with the corresponding webpages. 
+To view the four live projects listed in the Work section, click on the images for Horiseon Code Refactor, Surf Planner, Blog and Help Desk. A new tab will open up with the corresponding webpages. 
 
 If you click on the pictures for the Upcoming Projects, you will be redirected to the original page.
 
